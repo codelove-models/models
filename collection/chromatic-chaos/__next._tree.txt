@@ -7,4 +7,4 @@
 :HL["/library/chromatic-chaos/building-vapor-ramp-01.webp","image"]
 :HL["/library/chromatic-chaos/building-vapor-ramp-02.webp","image"]
 :HL["/library/chromatic-chaos/cell-phone-retro.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"models","param":null,"prefetchHints":4160,"slots":{"children":{"name":"collection","param":null,"prefetchHints":4192,"slots":{"children":{"name":"collection","param":{"type":"d","key":"chromatic-chaos","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"Cml4jLQDhNtSiw6q-FpJj"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"models","param":null,"prefetchHints":4160,"slots":{"children":{"name":"collection","param":null,"prefetchHints":4192,"slots":{"children":{"name":"collection","param":{"type":"d","key":"chromatic-chaos","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"918CF6mlsy-BSN3zEFNCB"}
