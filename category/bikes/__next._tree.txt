@@ -7,4 +7,4 @@
 :HL["/library/mini-skate/skateboard.webp","image"]
 :HL["/library/bikes/cyberpunk-motorbike.webp","image"]
 :HL["/library/car-kit/kart-oodi.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"models","param":null,"prefetchHints":4160,"slots":{"children":{"name":"category","param":null,"prefetchHints":4192,"slots":{"children":{"name":"category","param":{"type":"d","key":"bikes","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"83LEBvCl4OzvFolg8ZVWk"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"models","param":null,"prefetchHints":4160,"slots":{"children":{"name":"category","param":null,"prefetchHints":4192,"slots":{"children":{"name":"category","param":{"type":"d","key":"bikes","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"Vot-AsvZetxGgoOMke4a9"}
