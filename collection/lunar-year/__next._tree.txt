@@ -7,4 +7,4 @@
 :HL["/library/lunar-year/bell.webp","image"]
 :HL["/library/lunar-year/bell-structure.webp","image"]
 :HL["/library/lunar-year/building-base.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"models","param":null,"prefetchHints":4160,"slots":{"children":{"name":"collection","param":null,"prefetchHints":4192,"slots":{"children":{"name":"collection","param":{"type":"d","key":"lunar-year","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"Vot-AsvZetxGgoOMke4a9"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"models","param":null,"prefetchHints":4160,"slots":{"children":{"name":"collection","param":null,"prefetchHints":4192,"slots":{"children":{"name":"collection","param":{"type":"d","key":"lunar-year","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"enB0C63XC_j3GH3lnPSC6"}
